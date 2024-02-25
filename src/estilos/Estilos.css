@@ -1,0 +1,68 @@
+/* Estilos.css */
+.cartelera {
+    background-image: url("url_de_la_imagen_de_fondo");
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  .pelicula {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pelicula img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .contenido {
+    padding: 10px;
+  }
+  
+  .contenido h2 {
+    margin-top: 0;
+  }
+  
+  .contenido p {
+    margin-bottom: 0;
+  }
+  /* Estilos.css */
+.cartelera {
+    background-image: url("https://th.bing.com/th/id/OIP.QNwSGoTp0x_qMsQ-gU-WowHaE8?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  .pelicula {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pelicula img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .contenido {
+    padding: 10px;
+  }
+  
+  .contenido h2 {
+    margin-top: 0;
+  }
+  
+  .contenido p {
+    margin-bottom: 0;
+  }
+  
+  
